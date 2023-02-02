@@ -14,7 +14,7 @@ fn mutable_var(){
     println!("Value of y is: {y}");
 
     y=6; //no need to use mut keyword twice
-    println!("The alue of Y is also this: {y}")
+    println!("The value of Y is also this: {y}")
 }
 
 //according to rust convention 
