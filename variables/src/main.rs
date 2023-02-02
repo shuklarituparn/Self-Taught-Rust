@@ -1,12 +1,12 @@
 fn main() {
     let x=5;
-    println!("The value of x is ; {x}");
+    println!("The value of x is ; {x}\n");
 
     mutable_var(); //calling new function inside the main
-
+    println!("\n");
     const_val();
-
-    println!("Shadowing a variable");
+    println!("\n");
+    println!("Shadowing a variable: ");
     shadow_var();
 }
 //by default var in rust are mutable. They store only one value.
