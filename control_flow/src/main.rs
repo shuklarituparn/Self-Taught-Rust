@@ -54,7 +54,7 @@ fn if_in_a_let_statement(){
     let condition = true;
     let number = if condition { 5 } else { 6 };
 
-    //if condition is true than 5 or else 6
+    //if condition is true then 5 or else 6
 
     println!("The value of number is: {number}");
 }
