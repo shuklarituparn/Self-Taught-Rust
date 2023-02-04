@@ -103,6 +103,20 @@ fn loops_inside_loops(){
     }
     println!("End count = {count}");
 }
+fn while_loop(){
+
+    let mut number = 3;
+
+    while number != 0 {
+        println!("{number}!");
+
+        number -= 1;
+    }
+
+    println!("LIFTOFF!!!");
+
+    //While a condition evaluates to true, the code runs; otherwise, it exits the loop.
+}
 fn main(){
     if_statements_true();
     if_statements_false();
@@ -111,4 +125,6 @@ fn main(){
     infinite_loop();
     returning_value_from_loops();
     loops_inside_loops();
+    while_loop()
+
 }
