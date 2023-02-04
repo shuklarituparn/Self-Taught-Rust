@@ -58,9 +58,57 @@ fn if_in_a_let_statement(){
 
     println!("The value of number is: {number}");
 }
+fn infinite_loop(){
+    loop { //tells to loop again and again unless told to stop
+        println!("again!");
+        break; //using break to get out of the infinite loop
+    }
+
+}
+fn returning_value_from_loops(){
+    let mut counter = 0;
+
+    let result = loop {
+        counter += 1;
+
+        if counter == 10 {
+            break counter * 2;
+        }
+    };
+
+    println!("The result is {result}");
+
+    //This loop runs, and the counter value gets from 0 to 10
+    //As soon as it reaches 10 the program breaks the loop and returns the value of the counter*2
+}
+fn loops_inside_loops(){
+
+    let mut count = 0;
+    'counting_up: loop { //we can use label to a loop like here and use it later with break.
+        println!("count = {count}");
+        let mut remaining = 10;
+
+        loop { //inside loop that counts in reverse and checks the condition below.
+            println!("remaining = {remaining}");
+            if remaining == 9 { //exits the inside loop after reaching "9" and increases counter
+                break;
+            }
+            if count == 2 {
+                break 'counting_up; //exiting the outside loop as soon as the count reaches 2
+            }
+            remaining -= 1;
+        }
+
+        count += 1;
+    }
+    println!("End count = {count}");
+}
 fn main(){
     if_statements_true();
     if_statements_false();
     else_if();
     if_in_a_let_statement();
+    infinite_loop();
+    returning_value_from_loops();
+    loops_inside_loops();
 }
