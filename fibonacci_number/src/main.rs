@@ -11,6 +11,14 @@ fn fibonacci(number: i32) -> i32{
 
 fn main(){
 
+    println!("Enter the term of the fibonacci sequence you want to find: ");
+    let mut user_input = String::new();
 
-    println!("fibonacci numbers are: {}", fibonacci(11));
+    io::stdin()
+        .read_line(&mut user_input)
+        .expect("Failed to read line");
+
+    let my_int = user_input.trim().parse::<i32>().unwrap();
+
+    println!("fibonacci number is: {}", fibonacci(my_int));
 }
