@@ -136,6 +136,13 @@ fn for_loop_in_a_collection(){
     }
 }
 
+fn loop_reverse(){
+    for number in (1..4).rev() { //reversing from 4 to 1
+        println!("{number}!");
+    }
+    println!("LIFTOFF!!!");
+}
+
 fn main(){
     if_statements_true();
     if_statements_false();
@@ -147,5 +154,6 @@ fn main(){
     while_loop();
     for_loop();
     for_loop_in_a_collection();
+    loop_reverse();
 
 }
