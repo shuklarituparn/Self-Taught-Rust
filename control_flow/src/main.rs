@@ -117,6 +117,25 @@ fn while_loop(){
 
     //While a condition evaluates to true, the code runs; otherwise, it exits the loop.
 }
+fn for_loop(){
+    let a :[i32;5] = [10, 20, 30, 40, 50]; //5 signed integers of 32 bit
+    let mut index = 0;
+
+    while index < 5 {
+        println!("the value is: {}", a[index]);
+
+        index += 1;
+    }
+
+}
+fn for_loop_in_a_collection(){
+    let a = [10, 20, 30, 40, 50];
+
+    for element in a {
+        println!("the value is: {element}");
+    }
+}
+
 fn main(){
     if_statements_true();
     if_statements_false();
@@ -125,6 +144,8 @@ fn main(){
     infinite_loop();
     returning_value_from_loops();
     loops_inside_loops();
-    while_loop()
+    while_loop();
+    for_loop();
+    for_loop_in_a_collection();
 
 }

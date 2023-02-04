@@ -12,7 +12,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1ddabaa-b8f6-46c8-9dca-a1cc20400b00" name="Changes" comment="added while loop">
+    <list default="true" id="d1ddabaa-b8f6-46c8-9dca-a1cc20400b00" name="Changes" comment="added for loop">
       <change beforePath="$PROJECT_DIR$/control_flow/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/control_flow/src/main.rs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/control_flow/target/debug/control_flow" beforeDir="false" afterPath="$PROJECT_DIR$/control_flow/target/debug/control_flow" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/control_flow/target/debug/deps/control_flow-cc0139ca17429da8" beforeDir="false" afterPath="$PROJECT_DIR$/control_flow/target/debug/deps/control_flow-cc0139ca17429da8" afterDir="false" />
@@ -128,7 +128,7 @@
       <workItem from="1675466463060" duration="2265000" />
       <workItem from="1675469462451" duration="8000" />
       <workItem from="1675469643556" duration="66000" />
-      <workItem from="1675495952245" duration="2815000" />
+      <workItem from="1675495952245" duration="2995000" />
     </task>
     <task id="LOCAL-00001" summary="added while loop">
       <created>1675504614947</created>
@@ -137,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675504614947</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added for loop">
+      <created>1675504973554</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675504973554</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -156,7 +163,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added while loop" />
-    <option name="LAST_COMMIT_MESSAGE" value="added while loop" />
+    <MESSAGE value="added for loop" />
+    <option name="LAST_COMMIT_MESSAGE" value="added for loop" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
