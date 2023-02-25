@@ -11,34 +11,37 @@
       <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
     </configurations>
   </component>
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/fibonacci_number/Cargo.toml" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1ddabaa-b8f6-46c8-9dca-a1cc20400b00" name="Changes" comment="added for_loop_in_a_collection">
-      <change beforePath="$PROJECT_DIR$/control_flow/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/control_flow/src/main.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/control_flow/target/debug/control_flow" beforeDir="false" afterPath="$PROJECT_DIR$/control_flow/target/debug/control_flow" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/control_flow/target/debug/deps/control_flow-cc0139ca17429da8" beforeDir="false" afterPath="$PROJECT_DIR$/control_flow/target/debug/deps/control_flow-cc0139ca17429da8" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/control_flow/target/debug/incremental/control_flow-3fc7afu042buh/s-ghx0an8io5-kqjfct-working/29uhn6r3ash5v8hn.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/control_flow/target/debug/incremental/control_flow-3fc7afu042buh/s-ghx0an8io5-kqjfct-working/2kfj5p1g78zgkymo.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/control_flow/target/debug/incremental/control_flow-3fc7afu042buh/s-ghx0an8io5-kqjfct-working/2t8gpisro8y1wefq.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/control_flow/target/debug/incremental/control_flow-3fc7afu042buh/s-ghx0an8io5-kqjfct-working/4q3bw3xt0081fx6k.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/control_flow/target/debug/incremental/control_flow-3fc7afu042buh/s-ghx0an8io5-kqjfct-working/dep-graph.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/control_flow/target/debug/incremental/control_flow-3fc7afu042buh/s-ghx0an8io5-kqjfct-working/dep-graph.part.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/control_flow/target/debug/incremental/control_flow-3fc7afu042buh/s-ghx0an8io5-kqjfct-working/fq4f9l6tn4vamq8.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/control_flow/target/debug/incremental/control_flow-3fc7afu042buh/s-ghx0an8io5-kqjfct-working/jtsfv8forc9gtul.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/control_flow/target/debug/incremental/control_flow-3fc7afu042buh/s-ghx0an8io5-kqjfct-working/query-cache.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/control_flow/target/debug/incremental/control_flow-3fc7afu042buh/s-ghx0an8io5-kqjfct-working/work-products.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/control_flow/target/debug/incremental/control_flow-3fc7afu042buh/s-ghx0an8io5-kqjfct-working/xe23qkh5yryx9vg.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/control_flow/target/debug/incremental/control_flow-3fc7afu042buh/s-ghx0an8io5-kqjfct.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/control_flow/target/debug/incremental/control_flow-3fc7afu042buh/s-ghx0as7vv0-cu5y1u-1ig89cg3dvw2h/29uhn6r3ash5v8hn.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/control_flow/target/debug/incremental/control_flow-3fc7afu042buh/s-ghx0as7vv0-cu5y1u-1ig89cg3dvw2h/2kfj5p1g78zgkymo.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/control_flow/target/debug/incremental/control_flow-3fc7afu042buh/s-ghx0as7vv0-cu5y1u-1ig89cg3dvw2h/2t8gpisro8y1wefq.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/control_flow/target/debug/incremental/control_flow-3fc7afu042buh/s-ghx0as7vv0-cu5y1u-1ig89cg3dvw2h/4q3bw3xt0081fx6k.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/control_flow/target/debug/incremental/control_flow-3fc7afu042buh/s-ghx0as7vv0-cu5y1u-1ig89cg3dvw2h/dep-graph.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/control_flow/target/debug/incremental/control_flow-3fc7afu042buh/s-ghx0as7vv0-cu5y1u-1ig89cg3dvw2h/fq4f9l6tn4vamq8.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/control_flow/target/debug/incremental/control_flow-3fc7afu042buh/s-ghx0as7vv0-cu5y1u-1ig89cg3dvw2h/jtsfv8forc9gtul.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/control_flow/target/debug/incremental/control_flow-3fc7afu042buh/s-ghx0as7vv0-cu5y1u-1ig89cg3dvw2h/query-cache.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/control_flow/target/debug/incremental/control_flow-3fc7afu042buh/s-ghx0as7vv0-cu5y1u-1ig89cg3dvw2h/work-products.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/control_flow/target/debug/incremental/control_flow-3fc7afu042buh/s-ghx0as7vv0-cu5y1u-1ig89cg3dvw2h/xe23qkh5yryx9vg.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/control_flow/target/debug/incremental/control_flow-3fc7afu042buh/s-ghx0as7vv0-cu5y1u.lock" beforeDir="false" />
+    <list default="true" id="d1ddabaa-b8f6-46c8-9dca-a1cc20400b00" name="Changes" comment="added loop_reverse">
+      <change beforePath="$PROJECT_DIR$/.idea/Rust.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Rust.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_flow/target/debug/incremental/control_flow-3fc7afu042buh/s-ghx0g4e3f7-1moa4if-1dmr05ovi3mio/29uhn6r3ash5v8hn.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_flow/target/debug/incremental/control_flow-3fc7afu042buh/s-ghx0g4e3f7-1moa4if-1dmr05ovi3mio/2kfj5p1g78zgkymo.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_flow/target/debug/incremental/control_flow-3fc7afu042buh/s-ghx0g4e3f7-1moa4if-1dmr05ovi3mio/2t8gpisro8y1wefq.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_flow/target/debug/incremental/control_flow-3fc7afu042buh/s-ghx0g4e3f7-1moa4if-1dmr05ovi3mio/2xe73y5rifdqd6cb.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_flow/target/debug/incremental/control_flow-3fc7afu042buh/s-ghx0g4e3f7-1moa4if-1dmr05ovi3mio/2zcjeqzih2vc31eg.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_flow/target/debug/incremental/control_flow-3fc7afu042buh/s-ghx0g4e3f7-1moa4if-1dmr05ovi3mio/2zn38oaljgjp8ghx.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_flow/target/debug/incremental/control_flow-3fc7afu042buh/s-ghx0g4e3f7-1moa4if-1dmr05ovi3mio/394gkzqgy4xvy02n.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_flow/target/debug/incremental/control_flow-3fc7afu042buh/s-ghx0g4e3f7-1moa4if-1dmr05ovi3mio/3zax0m8eiy45hok.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_flow/target/debug/incremental/control_flow-3fc7afu042buh/s-ghx0g4e3f7-1moa4if-1dmr05ovi3mio/4bokmqa72zm7m1t1.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_flow/target/debug/incremental/control_flow-3fc7afu042buh/s-ghx0g4e3f7-1moa4if-1dmr05ovi3mio/4pxa3ri7183ncbcy.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_flow/target/debug/incremental/control_flow-3fc7afu042buh/s-ghx0g4e3f7-1moa4if-1dmr05ovi3mio/4q3bw3xt0081fx6k.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_flow/target/debug/incremental/control_flow-3fc7afu042buh/s-ghx0g4e3f7-1moa4if-1dmr05ovi3mio/50yybe18eo55ghgk.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_flow/target/debug/incremental/control_flow-3fc7afu042buh/s-ghx0g4e3f7-1moa4if-1dmr05ovi3mio/6b88zgzs1dj571i.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_flow/target/debug/incremental/control_flow-3fc7afu042buh/s-ghx0g4e3f7-1moa4if-1dmr05ovi3mio/dep-graph.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_flow/target/debug/incremental/control_flow-3fc7afu042buh/s-ghx0g4e3f7-1moa4if-1dmr05ovi3mio/fq4f9l6tn4vamq8.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_flow/target/debug/incremental/control_flow-3fc7afu042buh/s-ghx0g4e3f7-1moa4if-1dmr05ovi3mio/jtsfv8forc9gtul.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_flow/target/debug/incremental/control_flow-3fc7afu042buh/s-ghx0g4e3f7-1moa4if-1dmr05ovi3mio/query-cache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_flow/target/debug/incremental/control_flow-3fc7afu042buh/s-ghx0g4e3f7-1moa4if-1dmr05ovi3mio/rql9to0oyuuyfst.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_flow/target/debug/incremental/control_flow-3fc7afu042buh/s-ghx0g4e3f7-1moa4if-1dmr05ovi3mio/work-products.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_flow/target/debug/incremental/control_flow-3fc7afu042buh/s-ghx0g4e3f7-1moa4if-1dmr05ovi3mio/xe23qkh5yryx9vg.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_flow/target/debug/incremental/control_flow-3fc7afu042buh/s-ghx0g4e3f7-1moa4if-1dmr05ovi3mio/zwt30gtccxw173.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_flow/target/debug/incremental/control_flow-3fc7afu042buh/s-ghx0g4e3f7-1moa4if.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fibonacci_number/target/.rustc_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/fibonacci_number/target/.rustc_info.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/guessing_game/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/guessing_game/src/main.rs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +93,7 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;org.rust.cargo.project.model.PROJECT_DISCOVERY&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;language.rust.cargo.check&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -140,7 +143,9 @@
       <workItem from="1675466463060" duration="2265000" />
       <workItem from="1675469462451" duration="8000" />
       <workItem from="1675469643556" duration="66000" />
-      <workItem from="1675495952245" duration="3106000" />
+      <workItem from="1675495952245" duration="9138000" />
+      <workItem from="1675529151674" duration="4164000" />
+      <workItem from="1676317904126" duration="31000" />
     </task>
     <task id="LOCAL-00001" summary="added while loop">
       <created>1675504614947</created>
@@ -163,7 +168,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675505110125</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="added loop_reverse">
+      <created>1675505219507</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1675505219507</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -184,7 +196,8 @@
     <MESSAGE value="added while loop" />
     <MESSAGE value="added for loop" />
     <MESSAGE value="added for_loop_in_a_collection" />
-    <option name="LAST_COMMIT_MESSAGE" value="added for_loop_in_a_collection" />
+    <MESSAGE value="added loop_reverse" />
+    <option name="LAST_COMMIT_MESSAGE" value="added loop_reverse" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

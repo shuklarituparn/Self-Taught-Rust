@@ -13,7 +13,7 @@ fn main() {
                                    //currently bound to empty instance of string 
                                 
     io::stdin()      // if we didn't declare use std::io we'd have written std::io::stdin
-        .read_line(&mut guess)  //calls read_line mehod on this and stores it on guess.
+        .read_line(&mut guess)  //calls read_line method on this and stores it on guess.
         .expect("Failed to read line"); // to handle error when the string is entered
                                         // gives two values "ok" or "err".
                                         // using expect so that our program crashes when we 
@@ -112,10 +112,10 @@ fn main() {
                                                 //parse here converts string to number
             
             // parse return a result type and result is an enum with value ok or err
-            //if parse sucessfully converts we get a number value as match would return the 
+            //if parse successfully converts we get a number value as match would return the
             //num value inside ok
             Ok(num) => num,
-            Err(_) => continue, //no matter what error vlaue we get we ask user to enter 
+            Err(_) => continue, //no matter what error value we get we ask user to enter
                                 //the number correctly again
         };
 
@@ -132,6 +132,28 @@ fn main() {
     }
 }
 
-//rust has inbuilt dtat types i32 is a 32 bit number.
+//rust has inbuilt data types i32 is a 32 bit number.
 //u32 is an unsigned 32 bit number
 //i64 is a 64 bit number
+
+/*
+Mutability in Rust follows the name, not the value. So if you have a value that is bound to a
+mutable variable, and you want it to be immutable, all you have to do is rebind it:
+fn main() {
+    let mut nth_term = String::new();
+    io::stdin().read_line(&mut nth_term).expect("I/O error");
+    let nth_term = nth_term;
+    //  ^^^^^^^^-- no `mut`
+}
+ */
+
+/*
+fn main() {
+    let nth_term = {
+        let mut nth_term = String::new();
+        io::stdin().read_line(&mut nth_term).expect("I/O error");
+        nth_term
+    };
+}
+You can also put the original binding in a block expression to minimize the scope of the mut variable:
+ */
