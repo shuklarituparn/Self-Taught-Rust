@@ -3,7 +3,7 @@ fn main() {
     println!("1 + 2 = {}", 1u32 + 2);
 
     // Integer subtraction
-    println!("1 - 2 = {}", 1i32 - 2);
+    println!("1 - 2 = {}", 1i32- 2); //declaring it as u32 gives error as u32 takes +ve values
     // TODO ^ Try changing `1i32` to `1u32` to see why the type is important
 
     // Short-circuiting boolean logic
