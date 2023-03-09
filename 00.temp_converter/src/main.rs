@@ -15,7 +15,7 @@ fn main(){
 
 
     //println!("Press 2 to convert celsius. to fahr.: ");
-Лёля
+
     if my_int==1 {
         println!("You chose to convert fahr. to celsius: \n");
         println!("Enter temperature in fahrenheit: \n");
