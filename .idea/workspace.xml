@@ -20,42 +20,7 @@
     <cargoProject FILE="$PROJECT_DIR$/fibonacci_numbers/Cargo.toml" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1ddabaa-b8f6-46c8-9dca-a1cc20400b00" name="Changes" comment="added loop_reverse">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Rust.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Rust.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/00.temp_converter/target/.rustc_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/00.temp_converter/target/.rustc_info.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01.hello_world/target/.rustc_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/01.hello_world/target/.rustc_info.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02.hello_cargo/target/.rustc_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/02.hello_cargo/target/.rustc_info.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03.guessing_game/target/.rustc_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/03.guessing_game/target/.rustc_info.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04.variables/target/.rustc_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/04.variables/target/.rustc_info.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05.data_types/target/.rustc_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/05.data_types/target/.rustc_info.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06.functions/target/.rustc_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/06.functions/target/.rustc_info.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07.control_flow/target/.rustc_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/07.control_flow/target/.rustc_info.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08.array_and_slices/target/.rustc_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/08.array_and_slices/target/.rustc_info.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.structures/target/.rustc_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/10.structures/target/.rustc_info.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11.tuples/target/.rustc_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/11.tuples/target/.rustc_info.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/12.ownership/src/Hello_world/Cargo.toml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/12.ownership/src/Hello_world/src/main.rs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/12.ownership/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/12.ownership/src/main.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/12.ownership/target/.rustc_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/12.ownership/target/.rustc_info.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/12.ownership/target/debug/.fingerprint/ownership-31e2c69beebe7ef4/bin-ownership" beforeDir="false" afterPath="$PROJECT_DIR$/12.ownership/target/debug/.fingerprint/ownership-31e2c69beebe7ef4/bin-ownership" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/12.ownership/target/debug/.fingerprint/ownership-ad8cc399ac447a39/test-bin-ownership" beforeDir="false" afterPath="$PROJECT_DIR$/12.ownership/target/debug/.fingerprint/ownership-ad8cc399ac447a39/test-bin-ownership" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/12.ownership/target/debug/deps/ownership-31e2c69beebe7ef4.d" beforeDir="false" afterPath="$PROJECT_DIR$/12.ownership/target/debug/deps/ownership-31e2c69beebe7ef4.d" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/12.ownership/target/debug/deps/ownership-ad8cc399ac447a39.d" beforeDir="false" afterPath="$PROJECT_DIR$/12.ownership/target/debug/deps/ownership-ad8cc399ac447a39.d" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/12.ownership/target/debug/incremental/ownership-122rf435vlajp/s-giw706uqfb-1t2g5il-2pxkbe8ikc4wr/dep-graph.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/12.ownership/target/debug/incremental/ownership-122rf435vlajp/s-giw706uqfb-1t2g5il-2pxkbe8ikc4wr/query-cache.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/12.ownership/target/debug/incremental/ownership-122rf435vlajp/s-giw706uqfb-1t2g5il-2pxkbe8ikc4wr/work-products.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/12.ownership/target/debug/incremental/ownership-122rf435vlajp/s-giw706uqfb-1t2g5il.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/12.ownership/target/debug/incremental/ownership-3fuerp5f5wica/s-giw706uql5-1ulyq89-v1pqum0340jp/dep-graph.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/12.ownership/target/debug/incremental/ownership-3fuerp5f5wica/s-giw706uql5-1ulyq89-v1pqum0340jp/query-cache.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/12.ownership/target/debug/incremental/ownership-3fuerp5f5wica/s-giw706uql5-1ulyq89-v1pqum0340jp/work-products.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/12.ownership/target/debug/incremental/ownership-3fuerp5f5wica/s-giw706uql5-1ulyq89.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/13.references/target/.rustc_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/13.references/target/.rustc_info.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/14.slices/target/.rustc_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/14.slices/target/.rustc_info.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/17.methods/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/17.methods/src/main.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/18.enums/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/18.enums/src/main.rs" afterDir="false" />
-    </list>
+    <list default="true" id="d1ddabaa-b8f6-46c8-9dca-a1cc20400b00" name="Changes" comment="added loop_reverse" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -179,7 +144,7 @@
       <workItem from="1678436209749" duration="3261000" />
       <workItem from="1678457181944" duration="599000" />
       <workItem from="1678539726730" duration="5000" />
-      <workItem from="1681401490105" duration="622000" />
+      <workItem from="1681401490105" duration="1117000" />
     </task>
     <task id="LOCAL-00001" summary="added while loop">
       <created>1675504614947</created>
