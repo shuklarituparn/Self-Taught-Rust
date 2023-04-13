@@ -6,6 +6,7 @@ In order to take mutable input of string rust uses STRING type and uses the "fro
  */
 
 fn main(){
+fn boxed();
 
 let s = String::from("hello");
 println!("{}", s);
@@ -192,4 +193,10 @@ fn calculate_length(s: String) -> (String, usize) {
     let length = s.len(); // len() returns the length of a String
 
     (s, length)
+}
+
+fn boxed(){
+    let a = Box::new([0; 1_000_000]); //allocating the memory on the heap for a million objects
+    let b = a; //allocating that array to b
+    
 }

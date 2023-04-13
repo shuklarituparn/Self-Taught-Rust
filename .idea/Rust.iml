@@ -4,8 +4,16 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/fibonacci_number/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/literals_n_operators/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/00.area_of_rectangle/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/00.fibonacci_numbers/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/09.literals_n_operators/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/fibonacci_numbers/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/fibonacci_number/target" />
+      <excludeFolder url="file://$MODULE_DIR$/09.literals_n_operators/target" />
+      <excludeFolder url="file://$MODULE_DIR$/00.area_of_rectangle/target" />
+      <excludeFolder url="file://$MODULE_DIR$/00.fibonacci_numbers/target" />
       <excludeFolder url="file://$MODULE_DIR$/literals_n_operators/target" />
+      <excludeFolder url="file://$MODULE_DIR$/fibonacci_numbers/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

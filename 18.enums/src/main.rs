@@ -57,10 +57,23 @@ fn main() {
         kind: IpAddrKind::V6,
         address: String::from("::1"),
     };
-
-
-
-
 }
 
 fn route(ip_kind: IpAddrKind) {}
+
+
+/*
+
+enum Option<T> {
+    None,
+    Some(T),
+}
+
+<T> means that the Some variant of the Option enum can hold one piece of data of any type, and that each concrete type that gets used in place of T
+ makes the overall Option<T> type a different type.
+
+    let some_number = Some(5);  //it makes the Option<T> of the type i32
+    let some_char = Some('e');  //it makes the Option<T> of type char
+
+    let absent_number: Option<i32> = None;
+ */

@@ -14,20 +14,18 @@
   <component name="CargoProjects">
     <cargoProject FILE="$PROJECT_DIR$/fibonacci_number/Cargo.toml" />
     <cargoProject FILE="$PROJECT_DIR$/literals_n_operators/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/00.area_of_rectangle/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/00.fibonacci_numbers/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/09.literals_n_operators/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/fibonacci_numbers/Cargo.toml" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1ddabaa-b8f6-46c8-9dca-a1cc20400b00" name="Changes" comment="added loop_reverse">
-      <change beforePath="$PROJECT_DIR$/00.fibonacci_number/target/.rustc_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/00.fibonacci_number/target/.rustc_info.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/00.temp_converter/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/00.temp_converter/src/main.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Rust.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Rust.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/00.temp_converter/target/.rustc_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/00.temp_converter/target/.rustc_info.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/00.temp_converter/target/debug/.fingerprint/temp_converter-acc4fbd442ff895a/output-test-bin-temp_converter" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/00.temp_converter/target/debug/.fingerprint/temp_converter-acc4fbd442ff895a/test-bin-temp_converter" beforeDir="false" afterPath="$PROJECT_DIR$/00.temp_converter/target/debug/.fingerprint/temp_converter-acc4fbd442ff895a/test-bin-temp_converter" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/00.temp_converter/target/debug/.fingerprint/temp_converter-bd9dae385156c772/bin-temp_converter" beforeDir="false" afterPath="$PROJECT_DIR$/00.temp_converter/target/debug/.fingerprint/temp_converter-bd9dae385156c772/bin-temp_converter" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/00.temp_converter/target/debug/.fingerprint/temp_converter-bd9dae385156c772/output-bin-temp_converter" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/00.temp_converter/target/debug/incremental/temp_converter-1bnca9ouks030/s-givl8lqmfg-w2mn92-working/dep-graph.part.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/00.temp_converter/target/debug/incremental/temp_converter-1bnca9ouks030/s-givl8lqmfg-w2mn92.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/00.temp_converter/target/debug/incremental/temp_converter-2d2udwxgiy6rf/s-givl8lq8sp-d7prhu-working/dep-graph.part.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/00.temp_converter/target/debug/incremental/temp_converter-2d2udwxgiy6rf/s-givl8lq8sp-d7prhu.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01.hello_world/target/.rustc_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/01.hello_world/target/.rustc_info.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/02.hello_cargo/target/.rustc_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/02.hello_cargo/target/.rustc_info.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/03.guessing_game/target/.rustc_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/03.guessing_game/target/.rustc_info.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/04.variables/target/.rustc_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/04.variables/target/.rustc_info.json" afterDir="false" />
@@ -35,179 +33,28 @@
       <change beforePath="$PROJECT_DIR$/06.functions/target/.rustc_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/06.functions/target/.rustc_info.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/07.control_flow/target/.rustc_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/07.control_flow/target/.rustc_info.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/08.array_and_slices/target/.rustc_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/08.array_and_slices/target/.rustc_info.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09.literals_n_operators/target/.rustc_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/09.literals_n_operators/target/.rustc_info.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.ownership/Cargo.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.ownership/Cargo.toml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.ownership/src/Hello_world/Cargo.toml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.ownership/src/Hello_world/src/main.rs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.ownership/src/main.rs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.ownership/target/.rustc_info.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.ownership/target/CACHEDIR.TAG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.ownership/target/debug/.cargo-lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.ownership/target/debug/.fingerprint/ownership-31e2c69beebe7ef4/bin-ownership" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.ownership/target/debug/.fingerprint/ownership-31e2c69beebe7ef4/bin-ownership.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.ownership/target/debug/.fingerprint/ownership-31e2c69beebe7ef4/dep-bin-ownership" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.ownership/target/debug/.fingerprint/ownership-31e2c69beebe7ef4/invoked.timestamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.ownership/target/debug/.fingerprint/ownership-9edf47639a619fe6/bin-ownership" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.ownership/target/debug/.fingerprint/ownership-9edf47639a619fe6/bin-ownership.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.ownership/target/debug/.fingerprint/ownership-9edf47639a619fe6/dep-bin-ownership" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.ownership/target/debug/.fingerprint/ownership-9edf47639a619fe6/invoked.timestamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.ownership/target/debug/.fingerprint/ownership-ad8cc399ac447a39/dep-test-bin-ownership" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.ownership/target/debug/.fingerprint/ownership-ad8cc399ac447a39/invoked.timestamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.ownership/target/debug/.fingerprint/ownership-ad8cc399ac447a39/test-bin-ownership" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.ownership/target/debug/.fingerprint/ownership-ad8cc399ac447a39/test-bin-ownership.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.ownership/target/debug/deps/libownership-31e2c69beebe7ef4.rmeta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.ownership/target/debug/deps/libownership-ad8cc399ac447a39.rmeta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.ownership/target/debug/deps/ownership-31e2c69beebe7ef4.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.ownership/target/debug/deps/ownership-9edf47639a619fe6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.ownership/target/debug/deps/ownership-9edf47639a619fe6.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.ownership/target/debug/deps/ownership-ad8cc399ac447a39.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.ownership/target/debug/incremental/ownership-122rf435vlajp/s-giw706uqfb-1t2g5il-2pxkbe8ikc4wr/dep-graph.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.ownership/target/debug/incremental/ownership-122rf435vlajp/s-giw706uqfb-1t2g5il-2pxkbe8ikc4wr/query-cache.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.ownership/target/debug/incremental/ownership-122rf435vlajp/s-giw706uqfb-1t2g5il-2pxkbe8ikc4wr/work-products.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.ownership/target/debug/incremental/ownership-122rf435vlajp/s-giw706uqfb-1t2g5il.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.ownership/target/debug/incremental/ownership-3fuerp5f5wica/s-giw706uql5-1ulyq89-v1pqum0340jp/dep-graph.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.ownership/target/debug/incremental/ownership-3fuerp5f5wica/s-giw706uql5-1ulyq89-v1pqum0340jp/query-cache.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.ownership/target/debug/incremental/ownership-3fuerp5f5wica/s-giw706uql5-1ulyq89-v1pqum0340jp/work-products.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.ownership/target/debug/incremental/ownership-3fuerp5f5wica/s-giw706uql5-1ulyq89.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.ownership/target/debug/incremental/ownership-3qqa2vyolcx9a/s-givp2rq20s-q305v1-1o69wi1ky269l/11vhs45kuc73m5mz.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.ownership/target/debug/incremental/ownership-3qqa2vyolcx9a/s-givp2rq20s-q305v1-1o69wi1ky269l/18vpt3iex779dyep.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.ownership/target/debug/incremental/ownership-3qqa2vyolcx9a/s-givp2rq20s-q305v1-1o69wi1ky269l/197bssmgtox51t6l.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.ownership/target/debug/incremental/ownership-3qqa2vyolcx9a/s-givp2rq20s-q305v1-1o69wi1ky269l/1fpjb4dn3hc8ughk.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.ownership/target/debug/incremental/ownership-3qqa2vyolcx9a/s-givp2rq20s-q305v1-1o69wi1ky269l/1tai4g9d8f05z03m.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.ownership/target/debug/incremental/ownership-3qqa2vyolcx9a/s-givp2rq20s-q305v1-1o69wi1ky269l/20q8xj7hbwu5hj3m.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.ownership/target/debug/incremental/ownership-3qqa2vyolcx9a/s-givp2rq20s-q305v1-1o69wi1ky269l/24preo4bu94h19lb.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.ownership/target/debug/incremental/ownership-3qqa2vyolcx9a/s-givp2rq20s-q305v1-1o69wi1ky269l/2egktuuntna918nn.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.ownership/target/debug/incremental/ownership-3qqa2vyolcx9a/s-givp2rq20s-q305v1-1o69wi1ky269l/2sblj8otzrhkpz3x.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.ownership/target/debug/incremental/ownership-3qqa2vyolcx9a/s-givp2rq20s-q305v1-1o69wi1ky269l/2ujvxc0iupoaca78.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.ownership/target/debug/incremental/ownership-3qqa2vyolcx9a/s-givp2rq20s-q305v1-1o69wi1ky269l/2zrgv1knfoxhoif5.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.ownership/target/debug/incremental/ownership-3qqa2vyolcx9a/s-givp2rq20s-q305v1-1o69wi1ky269l/34xv2fxwxodb2cry.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.ownership/target/debug/incremental/ownership-3qqa2vyolcx9a/s-givp2rq20s-q305v1-1o69wi1ky269l/35qsock49liff9t3.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.ownership/target/debug/incremental/ownership-3qqa2vyolcx9a/s-givp2rq20s-q305v1-1o69wi1ky269l/387qr6u7vu3jlsk6.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.ownership/target/debug/incremental/ownership-3qqa2vyolcx9a/s-givp2rq20s-q305v1-1o69wi1ky269l/3dvywqwqnc0qcm9r.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.ownership/target/debug/incremental/ownership-3qqa2vyolcx9a/s-givp2rq20s-q305v1-1o69wi1ky269l/3jwpcmrr6zzbv6lt.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.ownership/target/debug/incremental/ownership-3qqa2vyolcx9a/s-givp2rq20s-q305v1-1o69wi1ky269l/3koyyimvb51bev17.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.ownership/target/debug/incremental/ownership-3qqa2vyolcx9a/s-givp2rq20s-q305v1-1o69wi1ky269l/3zdm9ncj9qxojoxw.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.ownership/target/debug/incremental/ownership-3qqa2vyolcx9a/s-givp2rq20s-q305v1-1o69wi1ky269l/4eauaf67cv3835vo.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.ownership/target/debug/incremental/ownership-3qqa2vyolcx9a/s-givp2rq20s-q305v1-1o69wi1ky269l/4kisrxdb88dlxtx6.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.ownership/target/debug/incremental/ownership-3qqa2vyolcx9a/s-givp2rq20s-q305v1-1o69wi1ky269l/4o7hx0uqaesy4eu6.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.ownership/target/debug/incremental/ownership-3qqa2vyolcx9a/s-givp2rq20s-q305v1-1o69wi1ky269l/4s6cp1gum1z4csdy.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.ownership/target/debug/incremental/ownership-3qqa2vyolcx9a/s-givp2rq20s-q305v1-1o69wi1ky269l/58vp04xpa30ca4bh.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.ownership/target/debug/incremental/ownership-3qqa2vyolcx9a/s-givp2rq20s-q305v1-1o69wi1ky269l/5b38lxrbs9ddyvng.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.ownership/target/debug/incremental/ownership-3qqa2vyolcx9a/s-givp2rq20s-q305v1-1o69wi1ky269l/5cwwlnseccbkwphg.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.ownership/target/debug/incremental/ownership-3qqa2vyolcx9a/s-givp2rq20s-q305v1-1o69wi1ky269l/dep-graph.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.ownership/target/debug/incremental/ownership-3qqa2vyolcx9a/s-givp2rq20s-q305v1-1o69wi1ky269l/h7g9d9srj7xy2i6.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.ownership/target/debug/incremental/ownership-3qqa2vyolcx9a/s-givp2rq20s-q305v1-1o69wi1ky269l/ic9ln7d4j5bglmp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.ownership/target/debug/incremental/ownership-3qqa2vyolcx9a/s-givp2rq20s-q305v1-1o69wi1ky269l/query-cache.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.ownership/target/debug/incremental/ownership-3qqa2vyolcx9a/s-givp2rq20s-q305v1-1o69wi1ky269l/work-products.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.ownership/target/debug/incremental/ownership-3qqa2vyolcx9a/s-givp2rq20s-q305v1.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.ownership/target/debug/ownership" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.ownership/target/debug/ownership.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/11.structures/Cargo.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/11.structures/Cargo.toml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/11.structures/src/main.rs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/11.structures/target/.rustc_info.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/11.structures/target/CACHEDIR.TAG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/11.structures/target/debug/.cargo-lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/11.structures/target/debug/.fingerprint/structures-2d3888ca36dc1d28/bin-structures" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/11.structures/target/debug/.fingerprint/structures-2d3888ca36dc1d28/bin-structures.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/11.structures/target/debug/.fingerprint/structures-2d3888ca36dc1d28/dep-bin-structures" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/11.structures/target/debug/.fingerprint/structures-2d3888ca36dc1d28/invoked.timestamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/11.structures/target/debug/.fingerprint/structures-7d1305e4d6304467/bin-structures" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/11.structures/target/debug/.fingerprint/structures-7d1305e4d6304467/bin-structures.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/11.structures/target/debug/.fingerprint/structures-7d1305e4d6304467/dep-bin-structures" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/11.structures/target/debug/.fingerprint/structures-7d1305e4d6304467/invoked.timestamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/11.structures/target/debug/.fingerprint/structures-ed9d2f51c646072c/dep-test-bin-structures" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/11.structures/target/debug/.fingerprint/structures-ed9d2f51c646072c/invoked.timestamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/11.structures/target/debug/.fingerprint/structures-ed9d2f51c646072c/test-bin-structures" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/11.structures/target/debug/.fingerprint/structures-ed9d2f51c646072c/test-bin-structures.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/11.structures/target/debug/deps/libstructures-7d1305e4d6304467.rmeta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/11.structures/target/debug/deps/libstructures-ed9d2f51c646072c.rmeta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/11.structures/target/debug/deps/structures-2d3888ca36dc1d28" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/11.structures/target/debug/deps/structures-2d3888ca36dc1d28.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/11.structures/target/debug/deps/structures-7d1305e4d6304467.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/11.structures/target/debug/deps/structures-ed9d2f51c646072c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/11.structures/target/debug/incremental/structures-2klbraq4rewsp/s-gik9k0z2ak-ssc6qm-16zfyfngrrnsa/dep-graph.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/11.structures/target/debug/incremental/structures-2klbraq4rewsp/s-gik9k0z2ak-ssc6qm-16zfyfngrrnsa/query-cache.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/11.structures/target/debug/incremental/structures-2klbraq4rewsp/s-gik9k0z2ak-ssc6qm-16zfyfngrrnsa/work-products.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/11.structures/target/debug/incremental/structures-2klbraq4rewsp/s-gik9k0z2ak-ssc6qm.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/11.structures/target/debug/incremental/structures-30wrfq69wu3dq/s-gik9k0x55l-q8en15-2f6wjflp8rrue/dep-graph.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/11.structures/target/debug/incremental/structures-30wrfq69wu3dq/s-gik9k0x55l-q8en15-2f6wjflp8rrue/query-cache.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/11.structures/target/debug/incremental/structures-30wrfq69wu3dq/s-gik9k0x55l-q8en15-2f6wjflp8rrue/work-products.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/11.structures/target/debug/incremental/structures-30wrfq69wu3dq/s-gik9k0x55l-q8en15.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/11.structures/target/debug/incremental/structures-v5g3mzqiryjz/s-gik440po9i-4ake1k-1lxyx55mxvwgc/1g82k488fnbzq146.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/11.structures/target/debug/incremental/structures-v5g3mzqiryjz/s-gik440po9i-4ake1k-1lxyx55mxvwgc/1qpt7huz0punurus.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/11.structures/target/debug/incremental/structures-v5g3mzqiryjz/s-gik440po9i-4ake1k-1lxyx55mxvwgc/28y8yaw9lfdrfw6z.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/11.structures/target/debug/incremental/structures-v5g3mzqiryjz/s-gik440po9i-4ake1k-1lxyx55mxvwgc/29de3kzc3no4r3j0.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/11.structures/target/debug/incremental/structures-v5g3mzqiryjz/s-gik440po9i-4ake1k-1lxyx55mxvwgc/2dbjpez26jtmfmed.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/11.structures/target/debug/incremental/structures-v5g3mzqiryjz/s-gik440po9i-4ake1k-1lxyx55mxvwgc/2hi68siiqoh4spc4.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/11.structures/target/debug/incremental/structures-v5g3mzqiryjz/s-gik440po9i-4ake1k-1lxyx55mxvwgc/3k7winibraphx4by.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/11.structures/target/debug/incremental/structures-v5g3mzqiryjz/s-gik440po9i-4ake1k-1lxyx55mxvwgc/3my7zmhb5521k2d8.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/11.structures/target/debug/incremental/structures-v5g3mzqiryjz/s-gik440po9i-4ake1k-1lxyx55mxvwgc/3n1irhtgudvcj35z.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/11.structures/target/debug/incremental/structures-v5g3mzqiryjz/s-gik440po9i-4ake1k-1lxyx55mxvwgc/3nk6db5j506sgq2d.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/11.structures/target/debug/incremental/structures-v5g3mzqiryjz/s-gik440po9i-4ake1k-1lxyx55mxvwgc/3xv128ryx9a198md.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/11.structures/target/debug/incremental/structures-v5g3mzqiryjz/s-gik440po9i-4ake1k-1lxyx55mxvwgc/44wz5g1m5714lglm.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/11.structures/target/debug/incremental/structures-v5g3mzqiryjz/s-gik440po9i-4ake1k-1lxyx55mxvwgc/463tpffbrv4polak.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/11.structures/target/debug/incremental/structures-v5g3mzqiryjz/s-gik440po9i-4ake1k-1lxyx55mxvwgc/46hs3y8ruakmr5la.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/11.structures/target/debug/incremental/structures-v5g3mzqiryjz/s-gik440po9i-4ake1k-1lxyx55mxvwgc/4vnd7hjrrv5ijr1p.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/11.structures/target/debug/incremental/structures-v5g3mzqiryjz/s-gik440po9i-4ake1k-1lxyx55mxvwgc/4zai07vmym636798.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/11.structures/target/debug/incremental/structures-v5g3mzqiryjz/s-gik440po9i-4ake1k-1lxyx55mxvwgc/54pb2q8eunr8c8hh.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/11.structures/target/debug/incremental/structures-v5g3mzqiryjz/s-gik440po9i-4ake1k-1lxyx55mxvwgc/aye3bmmo6vottjl.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/11.structures/target/debug/incremental/structures-v5g3mzqiryjz/s-gik440po9i-4ake1k-1lxyx55mxvwgc/dep-graph.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/11.structures/target/debug/incremental/structures-v5g3mzqiryjz/s-gik440po9i-4ake1k-1lxyx55mxvwgc/jn8xm5s9re6vvi7.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/11.structures/target/debug/incremental/structures-v5g3mzqiryjz/s-gik440po9i-4ake1k-1lxyx55mxvwgc/nhnmblbeylzqcj6.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/11.structures/target/debug/incremental/structures-v5g3mzqiryjz/s-gik440po9i-4ake1k-1lxyx55mxvwgc/query-cache.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/11.structures/target/debug/incremental/structures-v5g3mzqiryjz/s-gik440po9i-4ake1k-1lxyx55mxvwgc/work-products.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/11.structures/target/debug/incremental/structures-v5g3mzqiryjz/s-gik440po9i-4ake1k-1lxyx55mxvwgc/xu71617opqzmjf8.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/11.structures/target/debug/incremental/structures-v5g3mzqiryjz/s-gik440po9i-4ake1k.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/11.structures/target/debug/structures" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/11.structures/target/debug/structures.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/12.tuples/Cargo.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/12.tuples/Cargo.toml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/12.tuples/src/main.rs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/12.tuples/target/.rustc_info.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/12.tuples/target/CACHEDIR.TAG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/12.tuples/target/debug/.cargo-lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/12.tuples/target/debug/.fingerprint/tuples-d6a728284201c142/dep-test-bin-tuples" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/12.tuples/target/debug/.fingerprint/tuples-d6a728284201c142/invoked.timestamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/12.tuples/target/debug/.fingerprint/tuples-d6a728284201c142/test-bin-tuples" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/12.tuples/target/debug/.fingerprint/tuples-d6a728284201c142/test-bin-tuples.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/12.tuples/target/debug/.fingerprint/tuples-ecd8a702ac46cf7b/bin-tuples" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/12.tuples/target/debug/.fingerprint/tuples-ecd8a702ac46cf7b/bin-tuples.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/12.tuples/target/debug/.fingerprint/tuples-ecd8a702ac46cf7b/dep-bin-tuples" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/12.tuples/target/debug/.fingerprint/tuples-ecd8a702ac46cf7b/invoked.timestamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/12.tuples/target/debug/.fingerprint/tuples-f68d888f727da571/bin-tuples" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/12.tuples/target/debug/.fingerprint/tuples-f68d888f727da571/bin-tuples.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/12.tuples/target/debug/.fingerprint/tuples-f68d888f727da571/dep-bin-tuples" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/12.tuples/target/debug/.fingerprint/tuples-f68d888f727da571/invoked.timestamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/12.tuples/target/debug/deps/libtuples-d6a728284201c142.rmeta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/12.tuples/target/debug/deps/libtuples-f68d888f727da571.rmeta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/12.tuples/target/debug/deps/tuples-d6a728284201c142.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/12.tuples/target/debug/deps/tuples-ecd8a702ac46cf7b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/12.tuples/target/debug/deps/tuples-ecd8a702ac46cf7b.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/12.tuples/target/debug/deps/tuples-f68d888f727da571.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/12.tuples/target/debug/incremental/tuples-15o6vkyruyjdw/s-gik9k0y7y2-1dvqk3l-qlaqykswzuq4/dep-graph.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/12.tuples/target/debug/incremental/tuples-15o6vkyruyjdw/s-gik9k0y7y2-1dvqk3l-qlaqykswzuq4/query-cache.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/12.tuples/target/debug/incremental/tuples-15o6vkyruyjdw/s-gik9k0y7y2-1dvqk3l-qlaqykswzuq4/work-products.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/12.tuples/target/debug/incremental/tuples-15o6vkyruyjdw/s-gik9k0y7y2-1dvqk3l.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/12.tuples/target/debug/incremental/tuples-26o2troolcuvi/s-gik3ssxxf7-e8bvaw-1tebzm51o4a7z/1gf29eqlyiljxa33.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/12.tuples/target/debug/incremental/tuples-26o2troolcuvi/s-gik3ssxxf7-e8bvaw-1tebzm51o4a7z/1pfh1hw3c5lnm4b4.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/12.tuples/target/debug/incremental/tuples-26o2troolcuvi/s-gik3ssxxf7-e8bvaw-1tebzm51o4a7z/1y1s520vu89k9b63.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/12.tuples/target/debug/incremental/tuples-26o2troolcuvi/s-gik3ssxxf7-e8bvaw-1tebzm51o4a7z/282n3kuleqtw93pv.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/12.tuples/target/debug/incremental/tuples-26o2troolcuvi/s-gik3ssxxf7-e8bvaw-1tebzm51o4a7z/3jsg2cju98ze84nn.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/12.tuples/target/debug/incremental/tuples-26o2troolcuvi/s-gik3ssxxf7-e8bvaw-1tebzm51o4a7z/3q7mmiqkir95satb.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/12.tuples/target/debug/incremental/tuples-26o2troolcuvi/s-gik3ssxxf7-e8bvaw-1tebzm51o4a7z/4jvj82n5ysyh13jq.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/12.tuples/target/debug/incremental/tuples-26o2troolcuvi/s-gik3ssxxf7-e8bvaw-1tebzm51o4a7z/5gn000t9v8cczkv4.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/12.tuples/target/debug/incremental/tuples-26o2troolcuvi/s-gik3ssxxf7-e8bvaw-1tebzm51o4a7z/dep-graph.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/12.tuples/target/debug/incremental/tuples-26o2troolcuvi/s-gik3ssxxf7-e8bvaw-1tebzm51o4a7z/query-cache.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/12.tuples/target/debug/incremental/tuples-26o2troolcuvi/s-gik3ssxxf7-e8bvaw-1tebzm51o4a7z/work-products.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/12.tuples/target/debug/incremental/tuples-26o2troolcuvi/s-gik3ssxxf7-e8bvaw.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/12.tuples/target/debug/incremental/tuples-obevmfieq9pb/s-gik9k0wxp9-16imt48-2uug68i8ugtd0/dep-graph.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/12.tuples/target/debug/incremental/tuples-obevmfieq9pb/s-gik9k0wxp9-16imt48-2uug68i8ugtd0/query-cache.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/12.tuples/target/debug/incremental/tuples-obevmfieq9pb/s-gik9k0wxp9-16imt48-2uug68i8ugtd0/work-products.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/12.tuples/target/debug/incremental/tuples-obevmfieq9pb/s-gik9k0wxp9-16imt48.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/12.tuples/target/debug/tuples" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/12.tuples/target/debug/tuples.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10.structures/target/.rustc_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/10.structures/target/.rustc_info.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11.tuples/target/.rustc_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/11.tuples/target/.rustc_info.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12.ownership/src/Hello_world/Cargo.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/12.ownership/src/Hello_world/src/main.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/12.ownership/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/12.ownership/src/main.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12.ownership/target/.rustc_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/12.ownership/target/.rustc_info.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12.ownership/target/debug/.fingerprint/ownership-31e2c69beebe7ef4/bin-ownership" beforeDir="false" afterPath="$PROJECT_DIR$/12.ownership/target/debug/.fingerprint/ownership-31e2c69beebe7ef4/bin-ownership" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12.ownership/target/debug/.fingerprint/ownership-ad8cc399ac447a39/test-bin-ownership" beforeDir="false" afterPath="$PROJECT_DIR$/12.ownership/target/debug/.fingerprint/ownership-ad8cc399ac447a39/test-bin-ownership" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12.ownership/target/debug/deps/ownership-31e2c69beebe7ef4.d" beforeDir="false" afterPath="$PROJECT_DIR$/12.ownership/target/debug/deps/ownership-31e2c69beebe7ef4.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12.ownership/target/debug/deps/ownership-ad8cc399ac447a39.d" beforeDir="false" afterPath="$PROJECT_DIR$/12.ownership/target/debug/deps/ownership-ad8cc399ac447a39.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12.ownership/target/debug/incremental/ownership-122rf435vlajp/s-giw706uqfb-1t2g5il-2pxkbe8ikc4wr/dep-graph.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/12.ownership/target/debug/incremental/ownership-122rf435vlajp/s-giw706uqfb-1t2g5il-2pxkbe8ikc4wr/query-cache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/12.ownership/target/debug/incremental/ownership-122rf435vlajp/s-giw706uqfb-1t2g5il-2pxkbe8ikc4wr/work-products.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/12.ownership/target/debug/incremental/ownership-122rf435vlajp/s-giw706uqfb-1t2g5il.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/12.ownership/target/debug/incremental/ownership-3fuerp5f5wica/s-giw706uql5-1ulyq89-v1pqum0340jp/dep-graph.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/12.ownership/target/debug/incremental/ownership-3fuerp5f5wica/s-giw706uql5-1ulyq89-v1pqum0340jp/query-cache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/12.ownership/target/debug/incremental/ownership-3fuerp5f5wica/s-giw706uql5-1ulyq89-v1pqum0340jp/work-products.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/12.ownership/target/debug/incremental/ownership-3fuerp5f5wica/s-giw706uql5-1ulyq89.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13.references/target/.rustc_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/13.references/target/.rustc_info.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/14.slices/target/.rustc_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/14.slices/target/.rustc_info.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/17.methods/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/17.methods/src/main.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/18.enums/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/18.enums/src/main.rs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -239,6 +86,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
   <component name="ProjectId" id="2LAVttPlnBxbQaJcC06ps7IdDfR" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -261,6 +111,11 @@
     "org.rust.cargo.project.model.PROJECT_DISCOVERY": "true",
     "settings.editor.selected.configurable": "language.rust.cargo.check",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "GitIgnore"
+    ]
   }
 }]]></component>
   <component name="RecentsManager">
@@ -276,11 +131,11 @@
   <component name="RunManager">
     <configuration name="Run" type="CargoCommandRunConfiguration" factoryName="Cargo Command" nameIsGenerated="true">
       <option name="command" value="run" />
-      <option name="workingDirectory" value="file://$PROJECT_DIR$/13.references/src" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$/00.fibonacci_numbers/src" />
+      <option name="emulateTerminal" value="false" />
       <option name="channel" value="DEFAULT" />
       <option name="requiredFeatures" value="true" />
       <option name="allFeatures" value="false" />
-      <option name="emulateTerminal" value="false" />
       <option name="withSudo" value="false" />
       <option name="buildTarget" value="REMOTE" />
       <option name="backtrace" value="SHORT" />
@@ -320,6 +175,11 @@
       <workItem from="1677313429912" duration="9050000" />
       <workItem from="1677593638109" duration="42000" />
       <workItem from="1678263321422" duration="1125000" />
+      <workItem from="1678436174825" duration="31000" />
+      <workItem from="1678436209749" duration="3261000" />
+      <workItem from="1678457181944" duration="599000" />
+      <workItem from="1678539726730" duration="5000" />
+      <workItem from="1681401490105" duration="622000" />
     </task>
     <task id="LOCAL-00001" summary="added while loop">
       <created>1675504614947</created>
