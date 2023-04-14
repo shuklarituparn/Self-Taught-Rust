@@ -23,6 +23,14 @@ fn main() {
 
     iterating_on_a_vector(); //calling the iterating on vector function here
     changing_vec_values();
+
+
+    let row = vec![
+        SpreadsheetCell::Int(3),
+        SpreadsheetCell::Text(String::from("blue")),
+        SpreadsheetCell::Float(10.12),
+    ]; //defining a vector that stores a data of different type because of the emum type
+
 }
 
 /*
@@ -59,3 +67,12 @@ fn changing_vec_values(){
         //if we instead did "{{elements}}" it would print it 6 times
     }
 }
+enum SpreadsheetCell {
+    Int(i32),
+    Float(f64),
+    Text(String),
+
+    //defining an enum with the different data we wanna store
+}
+
+
