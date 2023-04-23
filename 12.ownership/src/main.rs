@@ -87,7 +87,7 @@ fn main() {
 
 Here X is binded to 5 and then we are taking the value of x and binding it to y.
 
-Something similar happens with the strings.
+Something similar happens with the 22.strings.
 
  */
 

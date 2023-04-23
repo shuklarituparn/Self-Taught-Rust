@@ -34,7 +34,7 @@ fn main() {
     enum Message { 
         Quit,        //variant with no data type associated with it
         Move { x: i32, y: i32 },   //variant with named data type like struct that accepts two integer
-        Write(String),     //variant that accpepts strings as input 
+        Write(String),     //variant that accpepts 22.strings as input
         ChangeColor(i32, i32, i32),  //variant that accepts tuples as an argument
     }
 

@@ -81,7 +81,7 @@ let slice = &s[3..len];
 let slice = &s[3..];
 
 let slice = &s[0..len];
-let slice = &s[..]; //to take entire strings
+let slice = &s[..]; //to take entire 22.strings
 
  here the string s will point to the first element.
 
